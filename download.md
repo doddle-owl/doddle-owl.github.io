@@ -8,8 +8,6 @@ permalink: /download.html
 # Related Files
 * [stop_word_list.txt](https://github.com/doddle-owl/doddle-owl/blob/master/src/main/resources/stop_word_list.txt)
 * [upper_concept_list.txt](https://github.com/doddle-owl/doddle-owl/blob/master/src/main/resources/upper_concept_list.txt)
-* doddle_resources.zip
-* ontology_templates.zip
 
 # License
 DODDLE-OWL is Free Software; you may redistribute it and/or modify it under the terms of the [GNU Generic Public License](http://www.gnu.org/copyleft/gpl.html) as published by the Free Software Foundation; either version 2, or (at your option) any later version.

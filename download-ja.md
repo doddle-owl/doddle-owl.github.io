@@ -9,8 +9,6 @@ permalink: /download-ja.html
 # 関連ファイル
 * [stop_word_list.txt](https://github.com/doddle-owl/doddle-owl/blob/master/src/main/resources/stop_word_list.txt)
 * [upper_concept_list.txt](https://github.com/doddle-owl/doddle-owl/blob/master/src/main/resources/upper_concept_list.txt)
-* [doddle_resources.zip]()
-* [ontology_templates.zip]()
 
 # ライセンス
 DODDLE-OWLはフリーソフトウェアです．Free Software Foundation による [GNU Generic Public License](http://www.gnu.org/copyleft/gpl.html)のバージョン2 （または，それ以降のバージョン）に従う限り自由に変更し再配布することができます．
