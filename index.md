@@ -23,6 +23,21 @@ Regarding domain ontology development support, many tools have been done with kn
 
 From the above consideration, we propose an interactive domain ontology development environment called DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment – OWL extension). DODDLE-OWL is written in Java language. DODDLE-OWL has the following six modules: Ontology Selection Module, Input Module, Construction Module, Refinement Module, Visualization Module, and Translation Module. DODDLE-OWL makes reuse of existing ontologies such as WordNet and EDR as general ontologies to construct taxonomic relationships (defined as classes) and other relationships (defined as properties and their domains and ranges) for concepts. Especially, to realize the user-centered environment, DODDLE-OWL is mounted with user interactive functions in each module.
 
+# Paper
+T.Morita, N.Fukuta,N.Izumi, T.Yamaguchi: DODDLE-OWL: Interactive Domain Ontology Development with Open Source Software in Java, IEICE Transactions on Information and Systems, Special Section on Knowledge-Based Software Engineering, Vol.E91-D No.4 pp.945-958 (2008.4) DOI: [10.1093/ietisy/e91-d.4.945](http://dx.doi.org/10.1093/ietisy/e91-d.4.945)
+
+```
+@article{Morita2008,
+  title={DODDLE-OWL: Interactive Domain Ontology Development with Open Source Software in Java},
+  author={Takeshi MORITA and Naoki FUKUTA and Noriaki IZUMI and Takahira YAMAGUCHI},
+  journal={IEICE Transactions on Information and Systems},
+  volume={E91.D},
+  number={4},
+  pages={945-958},
+  year={2008},
+  doi={10.1093/ietisy/e91-d.4.945}
+}
+```
 
 # Contact
 Takeshi Morita (morita [at] it.aoyama.ac.jp)
