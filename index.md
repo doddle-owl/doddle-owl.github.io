@@ -5,11 +5,11 @@ permalink: /
 ---
 
 # What's New
+* 2020-12-20: DODDLE-OWL 20.12.1 version released.
+* 2019-03-06: DODDLE-OWL 2019.03_1 version released.
+* 2019-01-06: DODDLE-OWL 1.0RC3 version released.
 * 2015-03-20: DODDLE-OWL 1.0RC2 version released.
 * 2015-03-10: DODDLE-OWL 1.0RC1 version released.
-* 2009-06-15: DODDLE-OWL Beta7 version released.
-* 2008-11-04: DODDLE-OWL Beta6 version released.
-* 2007-11-16: DODDLE-OWL Beta5 version released.
 
 [Change log](https://github.com/doddle-owl/DODDLE-OWL/commits/master)
 
@@ -26,12 +26,6 @@ From the above consideration, we propose an interactive domain ontology developm
 # Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EDogkQwwBNY" frameborder="0" allowfullscreen></iframe>
 
-# Members
-* [Takeshi Morita](http://takeshi-morita.jp) (Faculty of Science and Technology, Keio University, JAPAN)
-* Naoki Fukuta (Faculty of Information, Shizuoka University, JAPAN)
-* Noriaki Izumi (National Institute of Advanced Industrial Science and Technology, JAPAN)
-* Takahira Yamaguchi (Faculty of Science and Technology, Keio University, JAPAN)
-
 # Contact
-Takeshi Morita (t_morita [at] keio.jp)
+Takeshi Morita (morita [at] it.aoyama.ac.jp)
 

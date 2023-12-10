@@ -5,11 +5,11 @@ permalink: /index-ja.html
 ---
 
 # 新着情報
+* 2020-12-20: DODDLE-OWL ver. 20.12.1を公開
+* 2019-03-06: DODDLE-OWL ver. 2019.03_1を公開．
+* 2019-01-06: DODDLE-OWL ver. 1.0RC3を公開．
 * 2015-03-20: DODDLE-OWL ver. 1.0RC2を公開．
 * 2015-03-10: DODDLE-OWL ver. 1.0RC1を公開．
-* 2009-06-15: DODDLE-OWL ver. Beta7を公開．
-* 2008-11-04: DODDLE-OWL ver. Beta6を公開．
-* 2007-11-16: DODDLE-OWL ver. Beta5を公開．
 
 [更新履歴](https://github.com/doddle-owl/DODDLE-OWL/commits/master)
 
@@ -19,11 +19,5 @@ DODDLE-OWL (a Domain Ontology rapiD DeveLopment Environment – OWL extension) �
 # 動画
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EDogkQwwBNY" frameborder="0" allowfullscreen></iframe>
 
-# メンバー
-* [森田 武史](http://takeshi-morita.jp/index-ja.html) (慶應義塾大学 理工学部)
-* 福田 直樹 (静岡大学 情報学部)
-* 和泉 憲明 (産業技術総合研究所)
-* 山口 高平 (慶應義塾大学 理工学部)
-
 # 連絡先
-* 森田 武史 (t_morita [at] keio.jp)
+* 森田武史 (morita [at] it.aoyama.ac.jp)
